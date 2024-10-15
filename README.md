@@ -29,8 +29,8 @@ The script calculates token top-ups for active users based on their company’s 
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-link>
-   cd <repository-folder>
+   git clone <https://github.com/mounikkama/Ruby
+   cd Ruby
    ```
 2. **Run the code**:
    ruby challenge.rb
